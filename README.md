@@ -29,16 +29,6 @@ This project applies NLP techniques to detect signs of depression in tweets. Tex
 - Scikit-learn (CountVectorizer, models, metrics)
 - Matplotlib (visualization)
 
-## Project Structure
-
-```
-nlp-sentiment-analysis/
-│
-├── sentiment_tweets3.csv
-├── nlp_sentiment_analysis.ipynb
-└── README.md
-```
-
 ## Key Steps
 
 1. Text cleaning & lowercasing
